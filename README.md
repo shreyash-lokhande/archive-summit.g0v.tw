@@ -23,7 +23,7 @@ The following command builds the entire site within `/dist` directory, and gener
 $ npm run build
 ```
 
-After this, you may:
+After this, you may run:
 
 ```
 $ npm run start:dist
